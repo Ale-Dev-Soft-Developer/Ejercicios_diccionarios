@@ -1,3 +1,6 @@
+# Fichero de producto
+# Qué practica: Crear un diccionario y acceder a sus valores por clave
+
 tienda = {
     "nombre":"Notebook",
     "precio":259.990,

@@ -1,3 +1,6 @@
+# Control de stock crítico
+# Qué practica: Filtrar una lista de diccionarios y ordenarla con sorted() y lambda
+
 def menu_bodega():
     print('------------------------------------------')
     print('Has ingresado al Menu de la Bodega Central')

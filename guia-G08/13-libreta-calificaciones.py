@@ -1,3 +1,6 @@
+# Libreta de calificaciones
+# Qué practica: Agregar, actualizar y eliminar claves; values() para el promedio
+
 def calificaciones():
     
     asignatura = input("Ingrese el nombre de la Asignatura: ").lower()

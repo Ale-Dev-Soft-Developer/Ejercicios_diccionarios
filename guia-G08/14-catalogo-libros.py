@@ -1,3 +1,6 @@
+# Catálogo de libros
+# Qué practica: Búsqueda parcial, control de duplicados y disponibilidad
+
 def agregar_libros():
         
         nombre_libro = input("Ingresa el nombre del libro: ").lower()

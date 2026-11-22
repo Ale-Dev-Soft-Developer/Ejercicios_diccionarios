@@ -1,3 +1,6 @@
+# Promedio de curso
+# Qué practica: Lista de diccionarios, acumulador y búsqueda del máximo
+
 alumnos = [
     {"nombre":"Alejandro","nota":6.9},
     {"nombre":"Robert","nota":6.5},

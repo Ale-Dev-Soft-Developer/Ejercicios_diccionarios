@@ -1,3 +1,6 @@
+# Gestor de tareas pendientes
+# Qué practica: Estados booleanos y comprensión de listas
+
 def menu():
 
     print("\n===== GESTOR DE TAREAS =====")

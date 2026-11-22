@@ -1,3 +1,6 @@
+# Contador de palabras
+# Qué practica: split(), get() y ordenar items() por valor
+
 diccionario = {}
 
 frase = input("Que frase deseas ingresar?: ").lower()

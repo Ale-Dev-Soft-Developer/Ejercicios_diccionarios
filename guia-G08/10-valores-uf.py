@@ -1,3 +1,6 @@
+# Valores de la UF
+# Qué practica: Diccionario fecha → valor, conversión de formato y try / except
+
 def ingresar_dato():
     
     try: 

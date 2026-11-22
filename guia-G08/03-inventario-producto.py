@@ -1,3 +1,6 @@
+# Inventario de un producto
+# Qué practica: Menú para agregar, ver, actualizar y eliminar claves (pop, del)
+
 def menu():
     print("1. Ingresar producto: ")
     print("2. Ver el inventario: ")

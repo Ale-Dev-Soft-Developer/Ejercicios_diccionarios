@@ -1,3 +1,6 @@
+# Try / except
+# Qué practica: Manejo de errores con try, except y finally
+
 estado = True
 
 while estado == True:

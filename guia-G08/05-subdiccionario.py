@@ -1,3 +1,6 @@
+# Subdiccionario
+# Qué practica: Diccionarios anidados
+
 cliente = {
     'nombre':'Alejandro',
     'rut':'207679739',

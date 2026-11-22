@@ -1,3 +1,6 @@
+# Nómina de empleados
+# Qué practica: Filtro por rango y orden de mayor a menor
+
 def menu():
     print("1. Ingresar un nuevo empleado")
     print("2. Buscar por trabajador por rango de Dinero")

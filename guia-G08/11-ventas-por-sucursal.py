@@ -1,3 +1,6 @@
+# Ventas por sucursal
+# Qué practica: Acumulador, mejor elemento y formato de miles chileno
+
 sucursales = (
     {
         'nombre_sucursal':'Carahue',

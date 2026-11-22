@@ -1,3 +1,6 @@
+# Tupla de diccionarios
+# Qué practica: Inmutabilidad de las tuplas y manejo de AttributeError
+
 sistema = (
     {'clave':'idioma','valor':'Spanish'},
     {'clave':'moneda','valor':'CLP'},
